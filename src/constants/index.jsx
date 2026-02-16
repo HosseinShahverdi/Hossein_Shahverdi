@@ -106,19 +106,23 @@ const techStack = [
   },
   {
     category: "Mobile",
-    items: ["React Native", "Expo"],
+    items: ["Flutter"],
   },
   {
     category: "Styling",
-    items: ["Tailwind CSS", "Sass", "CSS"],
+    items: ["Tailwind CSS", "CSS"],
   },
   {
     category: "Backend",
-    items: ["Node.js", "Express", "NestJS", "Hono"],
+    items: ["Node.js"],
   },
   {
     category: "Database",
     items: ["MongoDB", "PostgreSQL"],
+  },
+  {
+    category: "AI",
+    items: ["Python", "TensorFlow", "PyTorch"],
   },
   {
     category: "Dev Tools",
